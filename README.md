@@ -1,6 +1,6 @@
 # 我的学习记录
 
-###git 
+###Git 
 *   [Git使用详细教程](http://www.admin10000.com/document/5374.html)
 
 
