@@ -1,4 +1,18 @@
-# 我的爬坑记录
+# 我的学习记录
 
-###我在使用git中遇到的问题
-*   [error:failed to push some refs to 错误](md1.md)
+###git 
+*   [Git使用详细教程](http://www.admin10000.com/document/5374.html)
+
+
+###Markdown
+*   [Markdown 11种基本语法](http://www.cnblogs.com/hnrainll/p/3514637.html)
+
+
+
+
+```javascript
+var json = {
+	name:'潘冰',
+	site:'github.com/cupsbbb'
+}
+```
