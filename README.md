@@ -26,6 +26,8 @@ Markdown
 	* proxy.config
 	* README.md
 
+
+###关于
 ```javascript
 var json = {
 	name:'潘冰',
