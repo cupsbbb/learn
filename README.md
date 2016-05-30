@@ -1,4 +1,12 @@
-# 我的学习记录
+# 学习资料资源
+
+百度静态资源公共库
+---
+* [jQuery](http://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js)
+* [Angular.js](http://apps.bdimg.com/libs/angular.js/1.4.6/angular.min.js)
+* [bootstrap.js](http://apps.bdimg.com/libs/bootstrap/3.3.4/js/bootstrap.min.js)
+* [React](http://apps.bdimg.com/libs/react/0.10.0/react.min.js)
+* [更多>>](http://cdn.code.baidu.com/)
 
 Git 
 ---
