@@ -3,6 +3,7 @@
 Git 
 ---
 * [Git使用详细教程](http://www.admin10000.com/document/5374.html)
+* [error:failed to push some refs to 错误](md1.md)
 
 Markdown
 ---
